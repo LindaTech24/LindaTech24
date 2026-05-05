@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning Quality Assurance
-🎓 Computer System Engineering Graduate
-💻 Interested in QA Engineer & Software Testing  
-🔍 Passionate about finding bugs and improving software quality
+- 🌱 I’m currently learning Quality Assurance
+- 🎓 Computer System Engineering Graduate
+- 💻 Interested in QA Engineer & Software Testing  
+- 🔍 Passionate about finding bugs and improving software quality
 
 ### Skils
 
@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 ### Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sylinda_24) ![https://www.linkedin.com/in/linda-qa](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sylinda_24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linda-qa)
