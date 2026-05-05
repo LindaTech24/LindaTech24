@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Quality Assurance
 - 🎓 Computer System Engineering Graduate
-- 💻 Interested in QA Engineer & Software Testing  
+- 🌱 I’m currently learning Quality Assurance
+- 💻 Interested in QA Engineer & Software Testing
 - 🔍 Passionate about finding bugs and improving software quality
 
 ### Skils
