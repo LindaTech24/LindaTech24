@@ -1,5 +1,7 @@
 ## Hello World! I'm Linda 👋
 
+![Linda](img/github-header-1.png)
+
 <!--
 **LindaTech24/LindaTech24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,4 +20,3 @@ Here are some ideas to get you started:
 🎓 Computer System Engineering Graduate  
 💻 Interested in QA Engineer & Software Testing  
 🔍 Passionate about finding bugs and improving software quality
-  
