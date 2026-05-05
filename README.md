@@ -1,6 +1,6 @@
 ## Hello World! I'm Linda 👋
 
-![Linda](img/github-header-1.png)
+![Linda](img/github-header-2.png)
 
 <!--
 **LindaTech24/LindaTech24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
