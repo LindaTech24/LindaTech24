@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 
 - 🎓 Computer System Engineering Graduate
-- 🌱 I’m currently learning Quality Assurance
-- 💻 Interested in QA Engineer & Software Testing
+- 🌱 I’m currently learning Manual Quality Assurance
+- 💻 Interested in QA Manual / Manual Tester
 - 🔍 Passionate about finding bugs and improving software quality
 
 ### Skils
